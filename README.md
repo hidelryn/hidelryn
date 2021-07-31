@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @hidelryn
+- 👋 Hi, I’m @delryn
 - 👀 I’m interested in TypeScript, Golang, React
 - 🌱 I’m currently learning Golang, TypeScript
 
